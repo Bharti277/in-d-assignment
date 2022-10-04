@@ -1,3 +1,5 @@
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
 /**
  * @license React
  * react-dom.production.min.js
@@ -58,4 +60,12 @@
  *
  * @licend The above is the entire license notice for the
  * Javascript code in this page
+ */
+
+/**
+ * A React component to view a PDF document
+ *
+ * @see https://react-pdf-viewer.dev
+ * @license https://react-pdf-viewer.dev/license
+ * @copyright 2019-2022 Nguyen Huu Phuoc <me@phuoc.ng>
  */
