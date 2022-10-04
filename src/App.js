@@ -1,12 +1,10 @@
-import './App.css';
-import Home from './Home';
+import PDF_File from "./File/pdf_file.pdf";
+import PDFComponent from "./PDFComponent/index";
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <Home />
+    <div style={{ textAlign: "center" }}>
+      <PDFComponent PDFUrl={PDF_File} />
     </div>
   );
 }
-
-export default App;
